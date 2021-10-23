@@ -12,8 +12,12 @@ Tutorial Membuat Akun Github
   ![y4](https://user-images.githubusercontent.com/92987122/138549519-23e10ccd-e1df-4117-add4-bfa19903f2dc.png)
   
 5. Kemudian klik pada Start Puzzle
+
   ![y6](https://user-images.githubusercontent.com/92987122/138549539-787e2ed6-2e91-4540-a872-8ba526c34d91.png)
+  
 6. Masukkan code yang sudah dikirim ke akun gmail
+
   ![y8](https://user-images.githubusercontent.com/92987122/138549573-18527e62-daf8-4a7c-aa20-80df64403b97.png)
+  
 7. Tampilan akhir
   ![y9](https://user-images.githubusercontent.com/92987122/138549596-cb92697b-8543-4788-b47e-6749fbe4cc48.png)
